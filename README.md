@@ -1,15 +1,41 @@
-# Primeiro Projeto: Site Estático
+# Projeto 1 - Site Estático: Portfólio da Gabriele Quevedo
 
-**Dev:** João Vitor Forgearini Beltrame  
-**Cliente:** Gabriele Quevedo  
-**Ideia:** Portfólio Pessoal
+![Screenshot do projeto](/img/DemoGif.gif "Screenshot do projeto").
 
-Características
-------
-Foi utilizado [esse template em bootstrap](https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/) e modificado para atender as demandas da cliente.
+Acesso: https://joaov230.github.io
 
-To Do
-------
- * Alterar a foto de fundo
- * Reorganizar o código em "main" ``index.html``
- * Obviamente trocar todos os nomes
+
+#### Desenvolvedor(a)
+João Vitor Forgearini Beltrame
+
+#### Cliente
+Gabriele Quevedo
+
+#### Tecnologias
+
+Preencha aqui uma lista detalhada de tecnologias usadas, por exemplo:
+- HTML
+- CSS
+- Bootstrap
+
+#### Ambiente de desenvolvimento
+
+Preencha aqui uma lista detalhada de ferramentas de desenvolvimento usadas, por exemplo:
+- VSCode e suas várias extensões
+- Github Pages
+
+#### Créditos
+
+Preencha aqui uma lista detalhada de recursos aproveitados no projeto, por exemplo:
+- Template utilizado: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
+- Icons diretamente do Bootstrap: https://icons.getbootstrap.com
+
+#### Bastidores
+
+
+Preencha aqui um breve relato dos bastidores e das particularidades do desenvolvimento do seu projeto, por exemplo: "match" com cliente, se houve mudança de objetivos/cliente/tecnologias durante o processo, algo marcante nas tecnologias usadas/aprendidas, se há mais de uma versão, se algo ficou faltando, se houve alguma parte mais trabalhosa de implementar, etc.
+
+
+
+---
+Projeto entregue para a disciplina de [Desenvolvimento de Software para a Web](http://github.com/andreainfufsm/elc1090-2023a) em 2023a
