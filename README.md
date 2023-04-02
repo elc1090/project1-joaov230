@@ -1,6 +1,6 @@
 # Projeto 1 - Site Estático: Portfólio da Gabriele Quevedo
 
-![Screenshot do projeto](/img/DemoGif.gif "Screenshot do projeto").
+![Screenshot do projeto](/img/DemoGif.gif "Screenshot do projeto")
 
 Acesso: https://joaov230.github.io
 
