@@ -13,20 +13,17 @@ Gabriele Quevedo
 
 #### Tecnologias
 
-Preencha aqui uma lista detalhada de tecnologias usadas, por exemplo:
 - HTML
 - CSS
 - Bootstrap
 
 #### Ambiente de desenvolvimento
 
-Preencha aqui uma lista detalhada de ferramentas de desenvolvimento usadas, por exemplo:
 - VSCode e suas várias extensões
 - Github Pages
 
 #### Créditos
 
-Preencha aqui uma lista detalhada de recursos aproveitados no projeto, por exemplo:
 - Template utilizado: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
 - Icons diretamente do Bootstrap: https://icons.getbootstrap.com
 
