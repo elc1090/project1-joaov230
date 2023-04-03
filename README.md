@@ -32,9 +32,11 @@ Preencha aqui uma lista detalhada de recursos aproveitados no projeto, por exemp
 
 #### Bastidores
 
+Primeiramente tentei desenvolver usando Geradores de Site Estáticos, mas o tempo que eu iria gastar estudando esses geradores, eu poderia utilizar aperfeiçoando as minhas habilidades com as linguagens já conhecidas para fazer o mesmo trabalho. Então preferi utilizar de um template de Bootstrap em HTML e CSS.
 
-Preencha aqui um breve relato dos bastidores e das particularidades do desenvolvimento do seu projeto, por exemplo: "match" com cliente, se houve mudança de objetivos/cliente/tecnologias durante o processo, algo marcante nas tecnologias usadas/aprendidas, se há mais de uma versão, se algo ficou faltando, se houve alguma parte mais trabalhosa de implementar, etc.
+Pensei em usar JavaScript para fazer animações e interações com o usuário, mas como eram coisas simples, preferi utilizar HTML e CSS. O template utilizava de alguns scripts em JavaScript, não modifiquei nada no arquivo, mas estudei o mesmo e achei um tanto complexo a forma que os devs originais optaram para implementar certas funcionalidades/animações. A sensação foi parecida com "cair de paraquedas" em alguma empresa e ter que aprender sua arquitetura interna: não é impossível, mas tomaria um certo tempo, que, no momento, seria desnecessário gastar.
 
+Descobri também que já havia trabalhado com Bootstrap antes, eu só não sabia que era Bootstrap kkkkkkk.
 
 
 ---
